@@ -1,9 +1,4 @@
 --Shindo Life
-
-
-
-
-
 repeat wait() until game:IsLoaded()
 --antiafk
 local VirtualUser=game:service'VirtualUser'
