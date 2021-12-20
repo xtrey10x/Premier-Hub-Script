@@ -1,5 +1,9 @@
 --Shindo Life
-if game.PlaceId == 4616652839 then
+
+
+
+
+
 repeat wait() until game:IsLoaded()
 --antiafk
 local VirtualUser=game:service'VirtualUser'
