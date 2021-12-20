@@ -32,8 +32,6 @@ b:Button("Autoclick",function(bool)
         wait(.4)
     end
 
-
-
 end)
 b:Button("AutoTree Jump",function(bool)
 	_G.AutoRush = false
@@ -692,22 +690,3 @@ else
     }) 
 end
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
